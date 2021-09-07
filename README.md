@@ -1,7 +1,7 @@
 # teknolojikampi2021
 Açıklab Pardus ve Liman Teknoloji Kampı
 
-Bir linux sunucu üzerinde çalıştırılacak python scripti (yapabilen bash de yapabilir ;D ) ile aşağıdaki işlemler yapılacaktır; 
+Bir linux sunucu üzerinde çalıştırılacak **tercihen** python scripti (yapabilen bash de yapabilir ;D ) ile aşağıdaki işlemler yapılacaktır; 
 - Genel sorgu fonksiyonu
 
   Bu fonksiyon değişken almamaktadır
