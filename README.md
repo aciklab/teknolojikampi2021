@@ -8,7 +8,7 @@ Açıklab Pardus ve Liman Teknoloji Kampı
 
 ### Inputs
 
-- SNMP istemcisinin IP Adresi
+- SNMP sunucusunun IP Adresi
 - SNMP key string'i
 
 ### Output
